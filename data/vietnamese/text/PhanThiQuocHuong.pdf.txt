@@ -1,0 +1,825 @@
+                                   --1--
+
+                              PHẦN MỞ ĐẦU
+1. Đặt vấn đề nghiên cứu
+    Dòng vốn đầu tư trực tiếp nước ngoài bắt đầu vào Việt Nam từ năm
+1988, bước ngoặt này đã được coi là thành tựu của quá trình chuyển đổi từ
+nền kinh tế kế hoạch tập trung sang nền kinh tế thị trường theo định hướng
+XHCN (Kokko et al., 2003). Sau khi cải cách kinh tế được thực hiện năm
+1986, dòng vốn FDI hàng năm vào Việt Nam đã tăng lên đáng kể, từ 341,7
+triệu USD năm 1988 đến năm 2013 ước tính tăng lên 22.352,2 triệu USD,
+mức tăng trưởng hàng năm trên 30% (Tổng cục Thống kê, 2014). Cao điểm
+quá trình thu hút lượng vốn này là năm 2008 với tổng vốn huy động trên
+71.000 triệu USD, tuy nhiên đã có sự sụt giảm nghiêm trọng từ năm 2009
+cho đến nay (từ số vốn đăng ký năm 2009 là 23.107,3 triệu USD đã giảm
+xuống còn 16.348 triệu USD năm 2012, giảm 29,3%). Mặc dù sự sụt giảm
+này không nằm ngoài xu hướng chung của toàn cầu dưới tác động của
+khủng hoảng kinh tế, nhưng nếu so sánh với khu vực ASEAN và Trung
+Quốc thì xu hướng dòng chảy ngược lại có sự gia tăng trong 4 năm qua.
+Điều này đã đặt ra các câu hỏi lớn: Các yếu tố nào ảnh hưởng thu hút dòng
+vốn đầu tư trực tiếp nước ngoài vào Việt Nam? Các yếu tố ảnh hưởng phân
+bố không gian vốn FDI giữa các địa phương tại Việt Nam là gì?. Với tầm
+quan trọng của dòng vốn FDI đối với tăng trưởng kinh tế, việc trả lời các
+câu hỏi này rất cần thiết nhằm đưa ra giải pháp phù hợp, từ đó tăng cường
+thu hút hơn nữa dòng vốn FDI vào Việt Nam nói chung và tại các địa
+phương nói riêng trong thời gian tới. Với lý do trên tác giả đã lựa chọn và
+thực hiện đề tài “Nghiên cứu các yếu tố ảnh hưởng thu hút dòng vốn đầu
+tư trực tiếp nước ngoài vào Việt Nam” làm luận án tiến sĩ của mình.
+2. Tình hình nghiên cứu liên quan đến nội dung luận án
+    Liên quan đến nội dung nghiên cứu của luận án, trên cơ sở kết quả tổng
+quan của tác giả cho thấy hiện nay trên thế giới đã có rất nhiều nghiên cứu
+cả về mặt lý thuyết cũng như thực nghiệm được thực hiện. Tuy vậy, vẫn còn
+khá ít các nghiên cứu thực nghiệm về yếu tố ảnh hưởng thu hút và phân bố
+không gian vốn FDI tại Việt Nam. Về yếu tố ảnh hưởng thu hút vốn FDI
+vào Việt Nam, hầu hết trong các nghiên cứu được tổng kết các tác giả đã sử
+                                        --2--
+
+dụng các biến đại diện và phương pháp nghiên cứu khác nhau sao cho phù
+hợp với cơ sở dữ liệu thống kê. Theo đó, kết quả tổng quan phân thành hai
+nhóm liên quan đến nguồn dữ liệu thống kê sơ cấp và thứ cấp. Đại diện cho
+nhóm thứ nhất liên quan đến dữ liệu thống kê sơ cấp có các nghiên cứu của
+Hafiz and Giroud (2004), Lei et al. (2011) và Nguyen et al. (2013). Ngược
+lại, các nghiên cứu khác của Parker et al. (2005), Hoang (2006), Hồ Nhựt
+Quang (2010), Pham (2011), Nguyen (2011), Hoàng Chí Cương và cộng sự
+(2013) sử dụng dữ liệu thống kê thứ cấp. Đối với các yếu tố ảnh hưởng
+phân bố không gian vốn FDI giữa các địa phương tại Việt Nam, theo tìm
+hiểu của tác giả vì sự hạn về dữ liệu thống kê nên chỉ có 3 nghiên cứu điển
+hình có liên quan là nghiên cứu của Meyer and Nguyen (2005), Nguyen et
+al. (2008) và Dinh (2009).
+3. Mục tiêu nghiên cứu
+     Mục tiêu nghiên cứu chính của luận án là xác định các yếu tố ảnh hưởng
+thu hút dòng vốn FDI vào Việt Nam và các yếu tố ảnh hưởng phân bố
+không gian vốn FDI giữa các địa phương tại Việt Nam. Cụ thể luận án tập
+trung trả lời 2 câu hỏi nghiên cứu chính sau:
+     - Các yếu tố nào ảnh hưởng thu hút dòng vốn FDI vào Việt Nam?
+     - Các yếu tố nào ảnh hưởng đến phân bố không gian vốn FDI giữa các
+địa phương tại Việt Nam?
+4. Đối tượng nghiên cứu và phạm vi nghiên cứu
+4.1. Đối tượng nghiên cứu
+     Đối tượng nghiên cứu chính của luận án là các yếu tố ảnh hưởng thu hút
+dòng vốn FDI vào Việt Nam và các yếu tố ảnh hưởng đến phân bố không
+gian vốn FDI giữa các địa phương tại Việt Nam.
+4.2. Phạm vi nghiên cứu
+     (1) Các số liệu về kết quả thu hút vốn FDI tại Việt Nam từ năm 1988
+đến năm 20131.
+
+
+
+1
+    Số liệu năm 2013 là số liệu sơ bộ
+                                    --3--
+
+    (2) Kết quả phản hồi đánh giá của 171 doanh nghiệp FDI đối với môi
+trường đầu tư Việt Nam hiện nay (giai đoạn khảo sát 2012-2013).
+    (3) Nhằm xác định các yếu tố ảnh hưởng thu hút dòng vốn FDI vào Việt
+Nam luận án đã sử dụng số liệu của 24 quốc gia đang phát triển thuộc khu
+vực Châu Á trong giai đoạn 2000-2012.
+    (4) Cuối cùng, để xác định các yếu tố ảnh hưởng đến phân bố không
+gian vốn FDI tại Việt Nam, dữ liệu của 63 tỉnh/thành phố tại Việt Nam
+trong giai đoạn 2005-2013 đã được sử dụng.
+5. Phương pháp nghiên cứu
+    - Để phản ánh đánh giá của các nhà đầu tư nước ngoài đối với môi
+trường đầu tư Việt Nam hiện nay phương pháp nghiên cứu định tính đã
+được sử dụng.
+    - Đối với nội dung phân tích các yếu tố ảnh hưởng thu hút FDI vào Việt
+Nam, với mục đích lựa chọn phương pháp ước lượng đạt kết quả kiểm định
+không chệch, vững và hiệu quả, phương pháp nghiên cứu được lựa chọn sử
+dụng là phương pháp ước lượng GMM sai phân thay vì phương pháp ước
+lượng bình phương nhỏ nhất OLS.
+    - Lập luận như đối với trường hợp Việt Nam nói chung phương pháp
+nghiên cứu để ước lượng và kiểm định các giả thuyết đưa ra liên quan đến
+các yếu tố ảnh hưởng phân bố không gian vốn FDI giữa các địa phương tại
+Việt Nam cũng là phương pháp ước lượng GMM sai phân.
+6. Tính mới và đóng góp của luận án
+     Về mặt lý thuyết
+    - Đối với trường hợp của Việt Nam, xác định không tồn tại tác động của
+biến trễ bậc 1 FDI (FDI_1) lên biến phụ thuộc FDI.
+    - Trong phân bố không gian vốn FDI giữa các địa phương tại Việt Nam
+xác định có tồn tại tác động của thông tin quá khứ các biến độc lập lên biến
+phụ thuộc FDI.
+    - Sử dụng biến tương tác nhằm nghiên cứu sự khác biệt về hệ số độ dốc
+các yếu tố ảnh hưởng đối với FDI của Việt Nam trong so sánh tương đồng
+với các nước ASIA 24.
+                                   --4--
+
+     Về thực tiễn:
+    - Cung cấp bằng chứng thực tế về đánh giá của các nhà đầu tư nước
+ngoài đối với môi trường đầu tư Việt Nam hiện nay.
+    - Xác định mô hình đặc trưng đối với các yếu tố ảnh hưởng thu hút dòng
+vốn FDI vào Việt Nam và các yếu tố ảnh hưởng phân bố không gian vốn
+FDI giữa các địa phương tại Việt Nam. Kết quả cho thấy quyết định của các
+nhà đầu tư nước ngoài tại Việt Nam không những bị chi phối bởi thông tin
+hiện tại mà còn bị chi phối bởi thông tin quá khứ của các yếu tố ảnh hưởng.
+    - Dựa trên kết quả kiểm định theo phương pháp ước lượng GMM sai
+phân, có 3 trong 6 giả thuyết đưa ra liên quan đến các yếu tố ảnh hưởng thu
+hút FDI vào Việt Nam có ý nghĩa thống kê tại mức ý nghĩa 10%. Theo đó,
+các nhà đầu tư nước ngoài đến Việt Nam là vì tác động khung chính sách,
+động cơ tìm kiếm thị trường và động cơ tìm kiếm tài nguyên.
+    - Đối với các yếu tố ảnh hưởng phân bố không gian vốn FDI giữa các
+địa phương tại Việt Nam, kết quả kiểm định theo phương pháp ước lượng
+GMM sai phân đối với dữ liệu hiện tại và quá khứ đã không đủ cơ sở bác bỏ
+4 trong 5 giả thuyết đưa ra, liên quan đến chất lượng điều hành kinh tế của
+chính quyền địa phương, động cơ tìm kiếm thị trường, động cơ tìm kiếm
+hiệu quả, và hiệu ứng tích tụ FDI.
+    - Từ kết quả đạt được trong quá trình phân tích một số gợi ý chính sách
+nhằm cải thiện môi trường đầu tư cũng như tăng cường thu hút dòng vốn
+đầu tư trực tiếp nước ngoài ở cấp độ quốc gia và địa phương đã được đề
+xuất.
+    - Cuối cùng, việc dựa trên dữ liệu bảng của các nước ASIA 24 để phân
+tích các yếu tố ảnh hưởng thu hút vốn FDI vào Việt Nam nên kết quả
+nghiên cứu không những có thể cho thấy được động cơ của các doanh
+nghiệp FDI tại Việt Nam mà còn có thể so sánh tương đồng với các quốc
+gia khác trong khu vực. Vì vậy kết quả nghiên cứu hy vọng sẽ cung cấp một
+tầm nhìn “rộng hơn” cho các nhà hoạch định chính sách.
+7. Kết cấu của luận án
+      Ngoài phần mở đầu và phần kết luận, hàm ý chính sách kết cấu luận án
+gồm các 5 chương chính.
+                                    --5--
+
+                                CHƯƠNG 1:
+  CÁC YẾU TỐ QUYẾT ĐỊNH VỊ TRÍ ĐẦU TƯ TRỰC TIẾP NƯỚC
+       NGOÀI: LÝ THUYẾT VÀ NGHIÊN CỨU THỰC NGHIỆM
+1.1. Giới thiệu
+1.2. Tổng quan về đầu tư trực tiếp nước ngoài (FDI)
+    Lý thuyết đã chỉ ra rằng FDI thường được hình thành và sinh ra từ sự
+tương tác giữa lực lượng của nước chủ đầu tư và nước thu hút (ví dụ,
+Dunning, 1981, 1988; UNCTAD, 2006). Dòng vốn FDI sẽ chảy từ nước này
+sang nước khác và FDI xảy ra có thể chung qui là do ảnh hưởng của các yếu
+tố đẩy từ nước chủ đầu tư và yếu tố kéo của nước thu hút. Một số yếu tố
+trong nước chủ đầu tư có xu hướng tạo động lực thúc đẩy hành vi đầu tư ra
+bên ngoài của FDI nhằm tìm kiếm một thị trường tiềm năng hơn hay tăng
+hiệu quả kinh doanh với chi phí sản xuất thấp hơn… ở nước thu hút.
+1.3. Tác động của FDI đến tăng trưởng kinh tế
+    FDI có thể thúc đẩy tăng trưởng kinh tế theo hai hướng: trực tiếp và gián
+tiếp, trong đó tác động gián tiếp của FDI đến tăng trưởng kinh tế còn gọi là
+tác động lan tỏa. Các nghiên cứu về tác động FDI đến tăng trưởng kinh tế
+đã sử dụng các phương pháp và cách tiếp cận vấn đề khác nhau. Một số
+nghiên cứu đề cập việc đo lường tác động của FDI đến tăng trưởng kinh tế
+nói chung theo cách tác động trực tiếp, trong khi những nghiên cứu khác lại
+tập trung nghiên cứu tác động của FDI đối với hoạt động sản xuất, thương
+mại quốc tế, đầu tư địa phương theo hướng tác động lan tỏa.
+1.4. Lý thuyết về yếu tố quyết định vị trí của FDI
+1.4.1. Ở cấp độ quốc gia
+1.4.1.1. Lý thuyết thương mại quốc tế (International Trade Theory)
+     Mô hình lý thuyết đầu tiên giải thích hoạt động đầu tư nước ngoài dựa
+trên lý thuyết thương mại quốc tế là mô hình Heckscher-Ohlin do
+Heckscher (1919) và Bertil Ohlin (1933) xây dựng với quan điểm: Quốc gia
+có nhiều yếu tố đầu vào tốt hơn nên xuất khẩu các sản phẩm thâm dụng yếu
+tố đầu vào đó và nhập khẩu các sản phẩm thâm dụng yếu tố đầu vào khác.
+1.4.1.2. Lý thuyết về lợi thế độc quyền (The Theory of Firm-Specific
+Ownership Advantages)
+                                    --6--
+
+     Lý thuyết này được khởi xướng bởi Hymer (năm 1960), đây là nỗ lực
+đầu tiên khi đưa ra một lý thuyết độc lập nhằm giải thích xu hướng đầu tư
+nước ngoài. Hymer đưa ra quan điểm của mình xuất phát từ các nền kinh tế
+công nghiệp và khẳng định rằng một công ty muốn vượt qua các rào cản
+quốc tế, tham gia vào quá trình sản xuất khi công ty phải có lợi thế độc
+quyền.
+1.4.1.3. Lý thuyết vòng đời của sản phẩm (Product Life Cycle Theories)
+     Lý thuyết này được Hirsch đưa ra trước tiên năm 1965 và sau đó được
+Vernon phát triển một cách có hệ thống từ năm 1966. Lý thuyết này lý giải
+cả đầu tư quốc tế lẫn thương mại quốc tế, coi đầu tư quốc tế là một giai
+đoạn tự nhiên trong vòng đời sản phẩm.
+1.4.1.4. Lý thuyết nội bộ hoá (Internalization Theory)
+     Lý thuyết nội bộ hoá do Buckley và Casson đưa ra năm 1976, lý thuyết
+này dựa trên lý thuyết công ty của Coase (1937). Theo lý thuyết này, giao
+dịch bên trong công ty (Internal Transaction-IT) tốt hơn giao dịch bên ngoài
+công ty (Market Transaction-MT) khi thị trường không hoàn hảo.
+1.4.1.5. Lý thuyết Eclectic Paradigm (OLI)
+     Đây là một mô hình được xây dựng khá công phu của Dunning (1977,
+1979, 1981, 1988, 1996, 1998, 2000, 2001). Theo Dunning, một công ty
+tiến hành đầu tư nước ngoài khi có các lợi thế OLI - bao gồm Ownership
+Advantages (lợi thế sở hữu), Location Advantage (lợi thế về vị trí), và
+Internalization Incentives (lợi thế nội bộ hóa).
+     Trên cơ sở tổng quan, lý thuyết OLI về các yếu tố quyết định vị trí FDI
+sẽ được lựa chọn làm nền tảng xây dựng mô hình nghiên cứu lý thuyết về
+các yếu tố ảnh hưởng thu hút vốn FDI và các yếu tố ảnh hưởng phân bố
+không gian vốn FDI giữa các đại phương tại Việt Nam trong chương 3 và
+chương 4 của luận án.
+1.4.2. Ở cấp độ phân bố không gian vốn FDI giữa các địa phương trong
+quốc gia
+    Lý thuyết nền tảng đầu tiên liên quan đến các yếu tố phân bố không gian
+vốn FDI giữa các vùng trong một quốc gia là lý thuyết Hiệu ứng tích tụ rất
+phổ biến của Krugman (1991). Nền tảng lý thuyết thứ hai được tìm thấy liên
+                                    --7--
+
+quan các yếu tố lợi thế kinh tế truyền thống. Khung lý thuyết cuối cùng liên
+quan đến các yếu tố thể chế.
+1.5. Các nghiên cứu thực nghiệm về các yếu tố ảnh hưởng thu hút vốn
+FDI
+     Kết quả tổng quan các công trình nghiên cứu thực nghiệm cho thấy các
+yếu tố ảnh hưởng thu hút dòng vốn đầu tư nước ngoài vào nhóm quốc gia,
+khu vực, hay một quốc gia cụ thể không có điểm khác biệt gì nhiều. Nhìn
+chung các yếu tố này được chia thành ba nhóm: nhóm yếu tố thể hiện khung
+chính sách của chính phủ (gồm các yếu tố: rủi ro quốc gia/lạm phát, tỷ giá
+hối đoái, chi phí vốn trong nước, chính sách thuế doanh nghiệp, đổi mới nền
+kinh tế, quan hệ song phương, phát triển tài chính, hỗ trợ ODA…); nhóm
+yếu tố quyết định kinh tế (gồm các yếu tố: quy mô thị trường, tăng trưởng
+kinh tế, mở cửa thương mại, tài nguyên cho khai thác, chi phí lao động, kỹ
+năng lao động/nguồn nhân lực, trình độ công nghệ, cơ sở hạ tầng, khoảng
+cách địa lý, khoảng cách văn hóa…), và nhóm yếu tố liên quan đến chất
+lượng thể chế (gồm các yếu tố: chính trị ổn định, chất lượng quy định pháp
+luật, tham nhũng/quan liêu…). Ba nhóm yếu tố này thể hiện quan điểm đại
+diện cho nền tảng xây dựng các mô hình nghiên cứu thực nghiệm về các
+yếu tố ảnh hưởng thu hút dòng vốn FDI và các yếu tố ảnh hưởng phân bố
+không gian vốn FDI giữa các địa phương tại Việt Nam trong chương 3 và 4
+của luận án.
+     Ngoài ra, kết quả tổng quan các nghiên cứu thực nghiệm về các yếu tố
+ảnh hưởng thu hút FDI tại Việt Nam ở cấp độ quốc gia và địa phương sẽ
+cho phép xác định khoảng trống trong nghiên cứu tại Việt Nam.
+1.6. Khoảng trống trong nghiên cứu tại Việt Nam
+    Trên cơ sở tổng quan các kết quả nghiên cứu thực nghiệm về yếu tố ảnh
+hưởng thu hút dòng vốn FDI vào Việt Nam và các yếu tố ảnh hưởng phân
+bố không gian vốn FDI giữa các địa phương tại Việt Nam, đây không phải
+là vấn đề mới và đã được một số tác giả quan tâm nghiên cứu.Tuy nhiên,
+hầu hết các nghiên cứu chưa tiến hành kiểm định các vi phạm liên quan đến
+hiện tượng phương sai thay đổi, tự tương quan và biến nội sinh, chủ yếu chỉ
+dừng lại ở kết quả hồi quy ban đầu theo phương pháp ước lượng bình
+                                    --8--
+
+phương nhỏ nhất (OLS) nên kết quả ước lượng chưa đáng tin cậy. Đặc biệt,
+chưa có mô hình nghiên cứu nào sử dụng biến trễ FDI để nghiên cứu tác
+động lên dòng vốn FDI, trong khi đó kết quả nghiên cứu của Campos and
+Kinoshita (2003); Carstensen and Toubal (2004); Bellak et al. (2008); và
+Anyanwu (2012) đã cho thấy đây là một biến quan trọng nên đưa vào mô
+hình nghiên cứu yếu tố ảnh hưởng thu hút FDI.
+    Đối với các yếu tố ảnh hưởng phân bố không gian FDI giữa các địa
+phương tại Việt Nam, theo kết quả tổng quan cho thấy chỉ có 3 nghiên cứu
+có liên quan, bao gồm: nghiên cứu của Meyer and Nguyen (2005); Nguyen
+and Nguyen (2007) và Dinh (2009). Khác với các tác giả này sử dụng dữ
+liệu từ nhiều nguồn khác nhau và không đồng nhất về mặt thời gian, trong
+luận án chỉ sử dụng dữ liệu thứ cấp từ một nguồn duy nhất là Tổng cục
+Thống kê trong giai đoạn 2005 – 2013 nên đảm bảo tính đồng nhất và đáng
+tin cậy, đồng thời sự cập nhật về dữ liệu (nhất là chỉ tiêu đánh giá năng lực
+cạnh tranh cấp tỉnh – PCI) giúp kết quả ước lượng hứa hẹn sẽ có độ tin cậy
+cao hơn. Ngoài ra, theo kết quả tổng quan cho thấy chưa có nghiên cứu nào
+quan tâm đến thông tin quá khứ có thể ảnh hưởng đến việc phân bố vốn FDI
+giữa các địa phương tại Việt Nam. Kết quả kiểm định ở chương 4 chứng tỏ
+đây lại là đặc trưng trong quyết định của các nhà đầu tư nước ngoài tại Việt
+Nam.
+1.7. Kết luận chương 1
+
+
+
+                              CHƯƠNG 2:
+THỰC TRẠNG THU HÚT ĐẦU TƯ TRỰC TIẾP NƯỚC NGOÀI TẠI
+                               VIỆT NAM
+2.1. Giới thiệu
+2.2. Thực trạng thu hút dòng vốn FDI tại Việt Nam
+2.2.1. Xu hướng FDI tại Việt Nam
+    Theo số liệu của Tổng cục Thống kê (2014) xu hướng dòng vốn FDI vào
+Việt Nam (cả vốn đăng ký và vốn thực hiện) đã gia tăng từ năm 1988 đến
+năm 2013. Tuy nhiên tổng vốn thực hiện so với vốn đăng ký vẫn còn rất
+                                   --9--
+
+thấp (tính đến cuối cuối năm 2013 tổng vốn thực hiện/tổng vốn đăng ký ước
+đạt 51,45%).
+2.2.2. Cơ cấu FDI tại Việt Nam
+    Về cơ cấu theo ngành, khu vực chế biến, chế tạo được xác định chiếm tỷ
+trọng vượt trội cả về số dự án và số vốn thu hút, khu vực này đạt trên
+54,76% tổng số dự án FDI đăng ký tại Việt Nam (8.725/15.932 dự án FDI).
+    Theo đối tác đầu tư, tính lũy kế đến ngày 31/12/2013, Nhật Bản, Xin-ga-
+po, Hàn Quốc, Đài Loan và Quần đảo Virgin thuộc Anh là năm quốc gia và
+vùng lãnh thổ có số lượng vốn đầu tư FDI đăng ký lớn nhất tại Việt Nam.
+    Về cơ cấu theo vùng, số liệu thống kê cho thấy trong số 63 tỉnh/thành
+phố hiện nay Tp Hồ Chí Minh là địa phương thu hút nhiều nhất vốn FDI
+trong cả nước (32.403,2 triệu USD), tiếp đến là Bà Rịa - Vũng Tàu (26.298
+triệu USD) và Hà Nội xếp vị trí thứ 3 (21.205,6 triệu USD).
+2.3. So sánh vốn FDI Việt Nam thu hút được với các nước trong khu
+vực
+    Trong khu vực các nước ASEAN, tính đến cuối năm 2013 vị trí xếp
+hạng của các nước trong thu hút dòng vốn FDI như sau: số một thuộc về
+Xin-ga-po (thu hút được 63.772,3 triệu USD), vị trí thứ hai thuộc về In-đô-
+nê-xia (18.444 triệu USD), tiếp theo là Thái Lan (12.649,7 triệu USD), Ma-
+lai-xia (11.582,7 triệu USD), và Việt Nam xếp thứ hạng thứ năm (với 8.900
+triệu USD thu hút được).
+2.4. Kết quả đánh giá về môi trường đầu tư tại Việt Nam thông qua
+cuộc khảo sát
+    Kết quả trả lời khảo sát của 171 doanh nghiệp có vốn đầu tư nước ngoài
+tại Việt Nam cho thấy có 66,1% doanh nghiệp cho rằng họ lựa chọn Việt
+Nam để đầu tư trong tương quan so sánh với các quốc gia khác; 90,1%
+doanh nghiệp đồng ý Việt Nam là một điểm đến của dòng vốn FDI tại khu
+vực Đông Nam Á; 62% doanh nghiệp đầu tư tại Việt Nam vì mục tiêu tìm
+kiếm thị trường; 86% doanh nghiệp có ý kiến cho rằng môi trường đầu tư
+tại Việt Nam đã thay đổi theo chiều hướng tích cực kể từ khi Việt Nam gia
+nhập vào Tổ chức Thương mại Thế giới (WTO) và đây cũng là tỷ trọng
+tương ứng cho sự hài lòng của họ đối với môi trường đầu tư tại Việt Nam
+                                  --10--
+
+hiện nay; có 83,6% doanh nghiệp cho rằng họ tiếp tục đầu tư tại Việt Nam
+và quốc gia được các nhà đầu tư quan tâm lựa chọn bên cạnh Việt Nam là
+Trung Quốc và Campuchia.
+2.5. Kết luận chương 2
+
+
+
+                      CHƯƠNG 3:
+   PHÂN TÍCH CÁC YẾU TỐ ẢNH HƯỞNG THU HÚT ĐẦU TƯ
+             TRỰC TIẾP NƯỚC NGOÀI VÀO VIỆT NAM
+3.1. Giới thiệu
+3.2. Giả thuyết và mô hình nghiên cứu
+     Từ 6 giả thuyết đưa ra, mô hình lý thuyết nghiên cứu các yếu tố ảnh
+hưởng thu hút dòng vốn FDI vào Việt Nam được xây dựng như sau:
+
+
+
+
+Hình 3.1: Mô hình lý thuyết nghiên cứu về các yếu tố ảnh hưởng thu hút
+dòng vốn FDI vào Việt Nam
+     Trên cơ sở kết quả tổng quan từ các công trình nghiên cứu thực nghiệm
+trong chương 1 và đặc điểm kinh tế - xã hội riêng của Việt Nam, mô hình
+nghiên cứu thực nghiệm về các yếu tố ảnh hưởng thu hút FDI vào Việt Nam
+được đút kết như sau:
+
+       ∑          ∑         ∑              (   )
+
+
+              ∑              (      )
+                                    --11--
+
+Và
+
+
+       ∑           ∑            ∑              (    )
+
+
+              ∑                (       )
+
+     Trong đó:
+     + i = 1,…, 24 đại diện cho 24 quốc gia thuộc Châu Á.
+     + t = 2000,…, 2012 là chỉ số chỉ thời gian nghiên cứu.
+     + FDI: Vốn FDI thu hút (USD).
+     + Xi: Tập hợp các biến thuộc nhóm yếu tố khung chính sách, gồm tỷ lệ
+lạm phát (Infla), tỷ giá hối đoái (ExchRa), tín dụng nội địa đối với khu vực
+tư nhân (FinDev), vốn viện trợ phát triển chính thức nhận được (ODA).
+     + Yi: Tập hợp các biến thuộc nhóm yếu tố kinh tế, gồm tổng sản phẩm
+quốc nội (GDP), dân số thành thị (UrPop), giá trị thương mại trao đổi với
+bên ngoài (Open), giá trị quặng và kim loại xuất khẩu (Resour), số thuê bao
+di động (Infras), và số học sinh trung học (HuCa).
+     + Zi: Tập hợp các biến thuộc nhóm yếu tố chất lượng thể chế, gồm chỉ
+số đánh giá về kiểm soát tham nhũng (Corrupt), chỉ số đánh giá về chất
+lượng quy định (Regul) và chỉ số đánh giá về luật pháp (Law).
+     + VNt: Tập hợp các biến tương tác của Việt Nam so với các nước
+ASIA 24. Các biến tương tác này được xác định trên cơ sở nhân từng biến
+độc lập trong 3 nhóm yếu tố trên với biến giả Dummy (biến giả Dummy có
+2 giá trị: 0 đối với các quốc gia ngoài Việt Nam và 1 đối với Việt Nam)
+     + FDIt-1 hay FDI_1: Biến trễ đầu tiên của FDI.
+     + FDIVNt-1: Biến trễ đầu tiên của biến tương tác FDI_1 với Dummy.
+3.3. Dữ liệu và phương pháp nghiên cứu
+3.3.1. Biến đo lường
+3.3.2. Dữ liệu thu thập
+    Dữ liệu biến phụ thuộc FDI được thu thập từ số liệu thống kê của tổ
+chức UNCTAD trong giai đoạn 2000-2012.
+                                                   --12--
+
+    Đối với các biến độc lập thuộc các nhóm yếu tố khung chính sách, kinh
+tế và chất lượng thể chế đều được tác giả thu thập từ nguồn dữ liệu thống kê
+của Ngân hàng Thế giới trong giai đoạn 2000-2012. Trong đó, các biến
+Corrupt, Regul và Law là chỉ số được xếp hạng từ 0 đến 100 (với 0 là giá trị
+xếp hạng đánh giá thấp nhất và 100 là giá trị xếp hạng đánh giá cao nhất).
+3.3.3. Phương pháp nghiên cứu
+    Trong các mô hình nghiên cứu thực nghiệm đã được xây dựng, bên cạnh
+các biến độc lập khác độ trễ bậc 1 của biến phụ thuộc FDI cũng được xem là
+một biến độc lập, đồng thời dữ liệu sử dụng là dữ liệu bảng của 24 quốc gia
+đang phát triển tại Châu Á trong giai đoạn 2000-2012 nên về mặt lý thuyết
+đây là mô hình hồi quy dữ liệu bảng động (Dynamic panel data models). Do
+đó, để ước lượng và kiểm định các giả thuyết đưa ra liên quan đến các yếu
+tố ảnh hưởng thu hút dòng vốn FDI vào Việt Nam phương pháp nghiên cứu
+được sử dụng là phương pháp ước lượng GMM sai phân theo phương pháp
+tác động cố định.
+3.4. Kết quả nghiên cứu
+3.4.1. Thống kê mô tả các biến
+    Trung bình trong giai đoạn nghiên cứu vốn FDI các nước ASIA 24 thu
+hút được là 8.820 triệu USD, trong đó giá trị cao nhất đạt 280.000 triệu
+USD, giá trị nhỏ nhất là -4,55 triệu USD2. Đối với các biến độc lập, về các
+biến liên quan đến khung chính sách, tỷ lệ lạm phát trung bình của khu vực
+là 7,36%, tỷ giá hối đoái trung bình là 1.696,38 LCU/USD, tỷ trọng tín
+dụng nội địa đối với khu vực tư nhân so với GDP trung bình đạt trên 40,7%
+và tỷ trọng vốn viện trợ phát triển chính thức so với GNI trung bình trên
+3,26%. Trong nhóm yếu tố kinh tế, tổng sản phẩm quốc nội (GDP) trung
+bình các nước đạt được 294.000 triệu USD/năm với tốc độ tăng trưởng
+trung bình trên 6,14%/năm, tỷ trọng trung bình dân cư thành thị so với tổng
+dân số đạt trên 46,2% và tỷ trọng giá trị thương mại trao đổi với bên ngoài
+trung bình trong cả khu vực đạt 88,28% GDP. Bên cạnh đó, giá trị trung
+bình của tỷ trọng giá trị quặng và kim loại xuất khẩu trong tổng kim ngạch
+
+2
+ Theo UNCTAD, khi một quốc gia có 1 trong 3 dòng vốn FDI (vốn chủ đầu tư, lợi nhuận dùng tái đầu tư và cho
+vay giữa các công ty) là âm và không có dòng vốn dương đủ đế bù đắp thì FDI mang dấu âm (gọi là divestment).
+                                    --13--
+
+xuất khẩu hàng hóa đạt trên 7,17% GDP. Số thuê bao di động tính trên 100
+người trung bình của khu vực trên 45 cái và số học sinh trung học trung
+bình là 8.284.530 học sinh. Trong nhóm các yếu tố liên quan đến chất lượng
+thể chế, chỉ số đánh giá về chất lượng quy định là chỉ tiêu đạt điểm số trung
+bình cao nhất (40,2), tiếp theo là chỉ số đánh giá về luật pháp (39,17) và
+cuối cùng là chỉ số đánh giá về kiểm soát tham nhũng (36,26).
+3.4.2. Xác định ma trận hệ số tương quan giữa các biến
+    Hầu hết các biến độc lập được sử dụng để nghiên cứu (trừ các biến Infla,
+ExchRa, Open và Corrupt) có hệ số tương quan với biến phụ thuộc FDI đạt
+ý nghĩa thống kê tại mức ý nghĩa nhỏ hơn hoặc bằng 10%. Trong số đó, các
+biến có dấu hệ số tương quan không phù hợp với lập luận lý thuyết là
+FinDev, ODA, Open và Resour. Ngoài ra, hệ số tương quan giữa biến FDI
+với GDP được xác định là lớn nhất (0,8478). Về mối quan hệ tương quan
+giữa các biến độc lập, hầu hết hệ số tương quan giữa các biến trong nhóm
+yếu tố khung chính sách và kinh tế đều thấp (thấp hơn 0,6), chỉ có duy nhất
+hệ số tương quan giữa biến GDP với ODA và HuCa cao (trên dưới 0,8), các
+hệ số này đã phản ánh quan hệ gắn chặt giữa tổng giá trị sản phẩm quốc gia
+với vốn viện trợ phát triển và số học sinh trung học. Ngược lại, đối với các
+biến liên quan đến nhóm yếu tố chất lượng thể chế hệ số tương quan lại cao,
+cao nhất là hệ số tương quan giữa 2 biến Corrupt và Law đạt đến 0,8833.
+Những kết quả này cho thấy có thể tồn tại hiện tượng đa cộng tuyến giữa
+các biến độc lập trong mô hình, tuy nhiên để đạt được mục tiêu nghiên cứu
+vi phạm này đã được chấp nhận và các biến độc lập vẫn được lựa chọn đưa
+vào mô hình.
+3.4.3. Kết quả hồi quy
+Bảng 3.7: Kết quả hồi quy một bước theo GMM sai phân đối với dữ liệu hiện tại
+                             Mô hình 1 Mô hình 2 Mô hình 3 Mô hình 4
+Infla                           0,0179   -0,0071     -0,0155     -0,0155
+                                                          ***
+ExchRa                         -0,6071   -0,7287  -3,7990     -3,8207***
+FinDev                          0,0142  -0,0163*     -0,0098     -0,0128
+                                      *         *          **
+ODA                           -0,1527    0,1107     0,1457      0,1444**
+GDP                                     1,5840**    1,5038**    1,5281**
+UrPop                                     0,0163     -0,0193     -0,0158
+                                           --14--
+
+Open                                                0,0438***   0,0459***     0,0479***
+Resour                                               0,0405**   0,0474***     0,0483***
+Infras                                                 0,0128     -0,0002       -0,0196
+HuCa                                                   0,5114      0,8735        10,233
+Corrupt                                                           -0,0601       -0,1221
+Regul                                                              0,2545        0,2634
+Law                                                                0,2641        0,3598
+FDI_1                              0,3497***          0,0336      -0,0278       -0,0194
+InflaVN                                                                         -10,375
+FinDevVN                                                                         0,0855
+ODAVN                                                                            0,9653
+UrPopVN                                                                         -6,4973
+OpenVN                                                                           0,9933
+ResourVN                                                                      -32,9104
+InfrasVN                                                                      -10,5608
+CorruptVN                                                                     -27.3501
+LawVN                                                                         -16,9958
+FDI_1VN                                                                        24,4690
+Số quan sát                             227              185         169            169
+ Wald Test                           14,930           12,530      13,380          7,810
+P-value                              0,0000           0,0000      0,0000         0,0000
+Sagan test:                          31,530           37,230      33,730         38,860
+P-value                               0,012            0,241       0,384          0,188
+Arellano-Bond test                    0,460           -0,780      -0,890         -0,830
+P-value                               0,647            0,436       0,376          0,404
+*Nếu Pvalue <10% ; **Nếu Pvalue <5%; ***Nếu Pvalue <1%
+
+Bảng 3.8: Kết quả hồi quy một bước theo GMM sai phân đối với dữ liệu quá khứ
+                             Mô hình 1          Mô hình 2       Mô hình 3    Mô hình 4
+Infla_1                       -0,0329**          -0,0303**        -0,0251*    -0,0391**
+ExchRa_1                         0,1314           -0,9026*         -1,5651      -2,6318
+FinDev_1                      0,0285***             0,0082          0,0101      0,0340*
+ODA_1                           -0,1159           -0,1255*         -0,0897      -0,0149
+GDP_1                                             -0,8610*         -0,6133      -0,5192
+UrPop_1                                            0,1457*          0,0202       0,0866
+Open_1                                             0,0188*          0,0161     0,0332**
+Resour_1                                           -0,0122         -0,0104      -0,0065
+Infras_1                                         0,6068***       0,6192***      0,5374*
+HuCa_1                                              0,0883          0,7062       0,6349
+Corrupt_1                                                           0,0503       0,0112
+Regul_1                                                            -0,3936       0,0542
+Law_1                                                               0,4246      -0,4159
+FDI_1                          0,5103***            -0,0427        -0,0579      -0,1978
+                                           --15--
+
+InflaVN_1                                                             -0,1756
+FinDevVN_1                                                            -0,1576
+ODAVN_1                                                               -0,2083
+UrPopVN_1                                                              2,1666
+OpenVN_1                                                              -0,0393
+ResourVN_1                                                            -0,2489
+InfrasVN_1                                                            -15,124
+CorruptVN_1                                                           -3,0109
+FDIVN_1                                                                35,952
+Số quan sát                          230               188      159       146
+Wald Test                          18,59             11,71     7,77       4,15
+P-value                           0,0000            0,0000   0,0000    0,0000
+Sagan test:                       19,430            58,610   64,400    88,600
+P-value                            0,195             0,001    0,000     0,000
+Arellano-Bond test                -0,430            -1,740   -1,720    -2,050
+P-value                            0,664             0,082    0,085     0,040
+*Nếu Pvalue <10% ; **Nếu Pvalue <5%; ***Nếu Pvalue <1%
+
+    Trong bảng 3.7, kết quả hồi quy một bước theo GMM sai phân đối với
+dữ liệu hiện tại của mô hình 3 và 4 cho thấy hầu hết các biến thuộc 2 nhóm
+yếu tố khung chính sách và kinh tế đều có ý nghĩa thống kê trong tác động
+lên biến phụ thuộc FDI. Cụ thể, tại mức ý nghĩa 1% các biến được kiểm
+định có ý nghĩa thống kê là ExchRa, Open và HuCa, tại mức ý nghĩa 5%
+biến GDP được kiểm định có ý nghĩa thống kê. Khác với kết quả hồi quy
+theo phương pháp OLS biến trễ bậc 1 của FDI (FDI_1) trong trường hợp
+này được kiểm định không có ý nghĩa thống kê trong tác động lên biến phụ
+thuộc FDI ngay tại mức ý nghĩa 10%. Ngoài ra, sự khác biệt hệ số độ dốc
+các biến độc lập của Việt Nam so với 23 nước trong mẫu nghiên cứu cũng
+được kiểm định không có ý nghĩa thống kê khi tất cả các biến tương tác đưa
+vào mô hình 4 đều không có ý nghĩa kiểm định ngay tại mức ý nghĩa 10%
+(các biến tương tác ExchRaVN, GDPVN, HuCaVN, và RegulVN bị loại
+khỏi mô hình vì vi phạm hiện tượng đa cộng tuyến). Đối với tính phù hợp
+của ước lượng theo GMM, kiểm định Sargan và kiểm định Arellano-Bond
+của mô hình 3 và 4 đều có ý nghĩa thống kê tại mức ý nghĩa 10% (P value của
+kiểm định Sargan và kiểm định Arellano-Bond của hai mô hình này đều lớn
+hơn 0,1). Theo đó, không đủ cơ sở để bác bỏ giả thuyết H 0 về biến công cụ
+ngoại sinh và không có tự tương quan trong mô hình, hay kết quả ước lượng
+                                  --16--
+
+theo GMM sai phân được xác định là phù hợp với dữ liệu nghiên cứu. Thêm
+vào đó, kết quả kiểm định Wald của cả hai mô hình đều có giá trị P value =
+0,0000 < 0,01 cho thấy mô hình có ý nghĩa trong giải thích tác động lên
+biến phụ thuộc FDI.
+    Lập luận tương tự mô hình 3, 4 cũng được lựa chọn để đánh giá đối với
+dữ liệu quá khứ. Không giống như dữ liệu hiện tại chỉ có duy nhất hai biến
+Infla_1 và Infras_1 được kiểm định có tác động lên dòng vốn FDI vào các
+ASIA 24 nói chung và Việt Nam nói riêng tại mức ý nghĩa chung 10%.
+Biến FDI_1 tiếp tục được kiểm định không có ý nghĩa thống kê trong tác
+động lên biến phụ thuộc FDI tại mức ý nghĩa 10%. Ngoài các biến tương tác
+được đưa vào mô hình, các biến ExchRaVN_1, GDPVN_1, HuCaVN_1,
+RegulVN_1 và LawVN_1 bị loại khỏi mô hình vì vi phạm hiện tượng đa
+cộng tuyến. Kết quả kiểm định cho thấy cũng giống như trường hợp thông
+tin hiện tại, các biến tương tác được đưa vào mô hình đều được kiểm định
+không có ý nghĩa thống kê tại mức ý nghĩa 10%. Về tính phù hợp của mô
+hình, kết quả kiểm định Wald của cả hai mô hình đều có giá trị P value =
+0,0000 < 0,01 cho thấy mô hình có ý nghĩa trong giải thích tác động lên
+biến phụ thuộc FDI.Tuy nhiên kết quả kiểm định trên đã không đáng tin cậy
+khi kết quả kiểm định Sargan và kiểm định Arellano-Bond của mô hình 3 và
+4 đều không có ý nghĩa thống kê tại mức ý nghĩa 10% (Pvalue của kiểm định
+Sargan và kiểm định Arellano-Bond của hai mô hình này đều nhỏ hơn 0,1).
+Theo đó, từ các kết kiểm định đã đủ cơ sở để bác bỏ giả thuyết H 0 về biến
+công cụ ngoại sinh và không có tự tương quan bậc 2 trong mô hình, hay kết
+quả ước lượng theo GMM sai phân được xác định không phù hợp với dữ
+liệu sử dụng nghiên cứu là thông tin quá khứ của các biến độc lập.
+3.4.4. Kiểm định các giả thuyết
+     Kết quả kiểm định theo phương pháp ước lượng GMM sai phân cho
+thấy có 3 trong 6 giả thuyết không đủ cơ sở để bác bỏ tại mức ý nghĩa 10%,
+bao gồm tác động nhóm yếu tố khung chính sách, động cơ tìm kiếm thị
+trường và động cơ tìm kiếm tài nguyên đối với dòng vốn FDI vào Việt
+Nam.
+3.5. Kết luận chương 3
+                                    --17--
+
+                                  CHƯƠNG 4:
+      PHÂN TÍCH CÁC YẾU TỐ ẢNH HƯỞNG PHÂN BỐ KHÔNG
+  GIAN VỐN ĐẦU TƯ TRỰC TIẾP NƯỚC NGOÀI TẠI VIỆT NAM
+4.1. Giới thiệu
+4.2. Giả thuyết và mô hình nghiên cứu
+     Từ 5 giả thuyết đưa ra, mô hình lý thuyết nghiên cứu về các yếu tố ảnh
+hưởng phân bố không gian vốn FDI giữa các địa phương tại Việt Nam được
+xây dựng như sau:
+
+
+
+
+Hình 4.2: Mô hình lý thuyết nghiên cứu về các yếu tố ảnh hưởng phân bố
+không gian vốn FDI giữa các địa phương tại Việt Nam
+   Trên cơ sở tổng quan từ các nghiên cứu thực nghiệm của Leonard K.
+Chenga and Yum K. Kwan (2000), Qian Sun et al. (2002) và Yanjing Chen
+(2009) đối với Trung Quốc mô hình nghiên cứu thực nghiệm các yếu tố ảnh
+hưởng phân bố không gian vốn FDI tại Việt Nam được đút kết như sau:
+
+              ∑          ∑
+
+                   (     )
+Và
+
+                       ∑            ∑
+
+                                                  (      )
+     Trong đó:
+     + i = 1,…, 63 đại diện cho 63 tỉnh thành tại Việt Nam;
+                                  --18--
+
+     + t = 2005,…, 2013 là chỉ số chỉ thời gian nghiên cứu;
+     + FDI: Vốn đầu tư trực tiếp nước ngoài (vốn đăng ký) (triệu USD);
+     + Xi: Tập hợp các biến thuộc nhóm yếu tố liên quan đến khả năng điều
+hành kinh tế của chính quyền địa phương, gồm tỷ lệ lạm phát (Infla) và chỉ
+số năng lực cạnh tranh cấp tỉnh (PCI).
+     + Yi: Tập hợp các biến thuộc nhóm yếu tố kinh tế, gồm tổng sản phẩm
+trên địa bàn (GDP), dân cư thành thị (UrPop), kim loại xuất khẩu trực tiếp
+(Resour), số lao động làm việc (Labour), số học sinh trung cấp chuyên
+nghiệp (HuCa) và số điện thoại cố định (Infras),
+     + Dummy_tt_HN: Biến giả với 2 giá trị: 1 đối với các tỉnh, thành phố
+nằm trong phạm vi cách thành phố Hà Nội 100 km2 và 0 đối với các tỉnh,
+thành phố không nằm trong phạm vi;
+     + Dummy_tt_HCM: Biến giả với 2 giá trị: 1 đối với các tỉnh, thành phố
+nằm trong phạm vi cách thành phố Hồ Chí Minh 100 km2 và 0 đối với các
+tỉnh, thành phố không nằm trong phạm vi;
+     + FDIit-1 hay FDI_1: Biến trễ đầu tiên của FDI.
+4.3. Dữ liệu và phương pháp nghiên cứu
+4.3.1. Dữ liệu phân tích
+    Dữ liệu của 63 tỉnh/thành phố tại Việt Nam trong giai đoạn 2005-2013.
+Nguồn dữ liệu được thu thập từ Niên giám thống kê của Tổng cục Thống kê
+và Niên giám thống kê của các tỉnh/thành phố. Từ 64 tỉnh/thành phố ban
+đầu tỉnh Hà Tây và thành phố Hà Nội được sáp nhập vào năm 2007, do đó
+số liệu của hai địa phương này sẽ được hợp nhất và lấy tên là thành phố Hà
+Nội trong cả giai đoạn nghiên cứu. Các địa phương sau đó đã được mã hóa
+từ 1 đến 63, bắt đầu từ thành phố Hà Nội đến cuối cùng là tỉnh Cà Mau.
+4.3.2. Phương pháp nghiên cứu
+    Lập luận tương tự chương 3 các phương pháp hồi quy mô hình các yếu
+tố ảnh hưởng phân bố không gian vốn FDI giữa các địa phương tại Việt
+Nam cũng sẽ được thực hiện cho cả hai loại dữ liệu hiện tại và quá khứ của
+các biến độc lập.
+    Mặt khác, độ trễ bậc 1 của biến phụ thuộc FDI được sử dụng là một biến
+độc lập có thể tác động đến quyết định của các nhà đầu tư nước ngoài, đồng
+                                   --19--
+
+thời dữ liệu sử dụng là dữ liệu bảng của 63 tỉnh/thành phố tại Việt Nam
+trong giai đoạn 2005-2013 nên về mặt lý thuyết thì đây là mô hình hồi quy
+dữ liệu bảng động. Do đó, để ước lượng và kiểm định các giả thuyết đưa ra
+liên quan đến các yếu tố ảnh hưởng phân bố không gian vốn FDI giữa các
+địa phương tại Việt Nam, phương pháp ước lượng GMM sai phân đối với
+hiệu ứng tác động cố định sẽ được sử dụng tương tự như đối với việc ước
+lượng và kiểm định các yếu tố ảnh hưởng thu hút dòng vốn FDI vào Việt
+Nam trong chương 3.
+4.4. Kết quả nghiên cứu
+4.4.1. Thống kê mô tả các biến
+    Trung bình trong giai đoạn nghiên cứu vốn đầu tư trực tiếp nước ngoài
+đăng ký tại các tỉnh/thành phố đạt 354,15 triệu USD/năm với độ lệch chuẩn
+là 1.039,68. Đối với các biến liên quan đến chất lượng điều hành kinh tế của
+chính quyền địa phương, trung bình tốc độ gia tăng chỉ số giá tiêu dùng so
+với kỳ trước được xác định là gần 107%, chỉ số năng lực cạnh tranh cấp tỉnh
+trung bình đạt trên 56,3 điểm và dẫn đầu vẫn là các tỉnh thuộc khu vực
+Đông Nam Bộ và Đồng bằng sông Cửu Long. Đối với các biến kinh tế, tổng
+sản phẩm trên địa bàn trung bình của các địa phương đạt được 34.192,8 tỷ
+đồng/năm với tốc độ tăng trưởng trung bình trên 11,19%. Dân cư thành thị
+trung bình đạt trên 409 nghìn người và tập trung chủ yếu tại khu vực Đông
+Nam Bộ và Đồng bằng sông Cửu Long. Kim ngạch xuất khẩu trực tiếp của
+địa phương trung bình đạt 1.263.244 nghìn USD. Lao động làm việc trong
+các ngành kinh tế của địa phương có giá trị lớn nhất đạt 4.000,9 nghìn
+người và giá trị trung bình của chỉ tiêu này trên 768,2 nghìn người. Số học
+sinh trung cấp chuyên nghiệp tại các địa phương trung bình đạt trên 8.479
+người. Số lượng điện thoại cố định được thống kê trung bình đạt gần 177
+nghìn cái. Nhìn chung khu vực Đông Nam Bộ và Đồng bằng sông Cửu
+Long là khu vực vượt trội trong tất cả các chỉ tiêu nghiên cứu.
+4.4.2. Xác định ma trận hệ số tương giữa các biến
+    Trong so sánh tương đồng với biến phụ thuộc FDI hệ số tương quan của
+các biến độc lập được đưa vào trong mô hình đều rất nhỏ (nhỏ hơn 0,6).
+Ngược với các biến độc lập khác dấu hệ số tương quan của biến Infla đã
+                                    --20--
+
+không phản ảnh đúng như dấu kỳ vọng lý thuyết ban đầu. Ngoài ra, hệ số
+tương quan giữa các biến độc lập còn lại cũng tương đối nhỏ (lớn nhất là hệ
+số tương quan giữa biến GDP với biến Open lớn hơn 0,85). Với những dấu
+hiện này cho thấy có thể tồn tại quan hệ đa cộng tuyến trong mô hình hồi
+quy, tuy nhiên để đạt được mục tiêu nghiên cứu vi phạm này đã được chấp
+nhận và các biến độc lập vẫn được lựa chọn đưa vào mô hình phân tích.
+5. 4.4.3. Kết quả hồi quy
+    Theo kết quả hồi quy hai bước của phương pháp ước lượng GMM đối
+với dữ liệu hiện tại (xem bảng 4.6), các biến được kiểm định có ý nghĩa
+thống kê tại mức ý nghĩa 1% là Infla và Dummy_tt_HCM, tại mức ý nghĩa
+5% bao gồm các biến UrPop, HaCa và Dummy_tt_HN, tại mức ý nghĩa
+10% duy nhất biến được kiểm định có ý nghĩa thống kê là Labour. Theo đó,
+việc phân bố không gian vốn FDI giữa các địa phương tại Việt Nam bị tác
+động bởi tỷ lệ lạm phát, dân cư thành thị, số lượng lao động, số học sinh
+trung cấp chuyên nghiệp. Bên cạnh đó, xu hướng hội tụ dòng vốn FDI tại
+hai thành phố lớn là Hà Nội và Hồ Chí Minh được kiểm định có tồn tại.
+Khác với dữ liệu hiện tại kết quả kiểm định đối với dữ liệu quá khứ cho
+thấy chỉ có duy nhất độ trễ bậc 1 của biến tỷ lệ lạm phát (Infla_1) có ý nghĩa
+thống kê tại mức ý nghĩa 1%. Kết quả này cho thấy việc phân bố không gian
+vốn FDI giữa các địa phương chỉ bị ảnh hưởng duy nhất thông tin quá khứ
+của tỷ lệ lạm phát. Ngoài ra, khác với kết quả ước lượng OLS trong kết quả
+ước lượng GMM sai phân biến FDI_1 không được kiểm định có ý nghĩa
+thống kê ngay tại mức ý nghĩa 10%.
+    Về tính phù hợp của mô hình khi sử dụng phương pháp ước lượng
+GMM sai phân, trong cả hai trường hợp dữ liệu hiện tại và dữ liệu quá khứ
+giá trị Pvalue của kiểm định Wald đều rất nhỏ và nhỏ hơn mức ý nghĩa 1%
+nên ta đủ cơ sở để bác bỏ giả thuyết H0 trong trường hợp các hệ số peta của
+các biến độc lập đều bằng 0. Điều này chứng tỏ mô hình hồi quy theo
+phương pháp ước lượng GMM có ý nghĩa trong giải thích tác động lên biến
+phụ thuộc FDI. Mặt khác, kết quả kiểm định Sagan và Arellano-Bond đối
+với phương pháp ước lượng GMM sai phân của 3 mô hình cho cả hai loại
+dữ liệu hiện tại và quá khứ đều lớn hơn mức ý nghĩa 5% cho thấy không đủ
+                                     --21--
+
+cơ sở để bác bỏ giả thuyết H0 về biến cộng cụ ngoại sinh và không có tự
+tương quan trong mô hình, hay kết quả ước lượng theo GMM sai phân được
+xác định là phù hợp với dữ liệu nghiên cứu. Đặc biệt, trong các trường hợp
+dữ liệu hiện tại và quá khứ kết quả kiểm định tác động của các biến độc lập
+lên biến phụ thuộc FDI đều không thay đổi trong cả mô hình 1, 2 và 3 phản
+ánh tính ổn định của các mô hình nên có độ tin cậy cao. Mặt khác, việc kết
+quả ước lượng theo GMM phù hợp với hai loại dữ liệu hiện tại và dữ liệu
+quá khứ của các biến độc lập trong mô hình đã cho thấy việc phân bố không
+gian vốn đầu tư nước ngoài giữa các địa phương tại Việt Nam bị tác động
+bởi cả thông tin hiện tại và thông tin quá khứ của các yếu tố ảnh hưởng.
+Bảng 4.6: Kết quả hồi quy hai bước IV-GMM đối với dữ liệu hiện tại
+ Biến                              Mô hình 1           Mô hình 2      Mô hình 3
+                                           ***
+ Infla                            -0,05112            -0,04671***    -0,04458***
+ PCI                                  0,63164             0,46173        0,63660
+ GDP                                                      0,12095       -0,04010
+ UrPop                                                   0,62344*      0,64437**
+ Open                                                    0,47966*        0,41289
+ Labour                                                 5,85142**       3,96052*
+ HuCa                                                  0,70534***      0,68121**
+ Infras                                                   0,05041        0,07600
+ Dummy_tt_HN                                                           1,76453**
+ Dummy-tt_HCM                                                         4,01757***
+ FDI_1                                0,18332            -0,57117       -0,51453
+ Constant                            -4,54220          20,93844*         9,24993
+ Số quan sát                              367                 366            364
+ Wald Test                              15,42               54,98         118,72
+ P-value                               0,0015              0,0000         0,0000
+ Sagan test:                           3,1186              3,5734         4,5411
+ P-value                               0,9267              0,8934         0,8053
+ Arellano-Bond test                   -0,3866             -1,8705        -1,6153
+ P-value                               0,6991              0,0614         0,1062
+ *Nếu Pvalue <10% ; **Nếu Pvalue <5%; ***Nếu Pvalue <1%
+
+Bảng 4.7: Kết quả hồi quy hai bước IV-GMM đối với dữ liệu quá khứ
+Biến                              Mô hình 1      Mô hình 2        Mô hình 3
+                                          ***            ***
+Infla_1                          -0,06535       -0,09408          -0,08393***
+PCI_1                               -0,56084       -0,10722          -0,05354
+                                      --22--
+
+GDP_1                                                  -1,41535    -0,83698
+UrPop_1                                                -1,48454    -1,09721
+Open_1                                                  1,46239     0,93153
+Labour_1                                                2,94887     1,89100
+HuCa_1                                                  0,10530     0,12255
+Infras_1                                               -0,29450    -0,19015
+Dummy_tt_HN                                                        -0,08539
+Dummy_tt_HCM                                                       -0,22465
+FDI_1                                0,35535*           0,20639     0,20511
+                                            **
+Constant                           12,09875            -0,79078     2,96245
+Số quan sát                               367               366         364
+Wald Test                               14,90              22,02       21,34
+P-value                                0,0019            0,0088      0,0300
+Sagan test:                           18,0365           13,4162     14,3636
+P-value                                0,5200            0,8166      0,7621
+Arellano-Bond test                    -0,2399           -0,8605     -0,7879
+P-value                                0,8104            0,3895      0,4308
+*Nếu Pvalue <10% ; **Nếu Pvalue <5%; ***Nếu Pvalue <1%
+(Nguồn: Tính toán của tác giả)
+
+4.4.4. Kiểm định các giả thuyết
+    Kết quả kiểm định theo phương pháp ước lượng GMM sai phân cho
+thấy không đủ cơ sở bác bỏ 4 trong 5 giả thuyết đưa ra đối với tác động ảnh
+hưởng của các yếu tố liên quan đến khả năng điều hành kinh tế của chính
+quyền địa phương, động cơ tìm kiếm thị trường, động cơ tìm kiếm hiệu quả
+và hiệu ứng tích tụ FDI tại hai thành phố lớn là Hà Nội và Hồ Chí Minh.
+4.5. Kết luận chương 4
+
+
+
+                              CHƯƠNG 5:
+                         HÀM Ý CHÍNH SÁCH
+    Từ kết quả đạt được trong quá trình phân tích chương 2, 3 và 4, trong
+chương 5 một số gợi ý chính sách nhằm cải thiện môi trường đầu tư cũng
+như tăng cường thu hút dòng vốn đầu tư trực tiếp nước ngoài ở cấp độ quốc
+gia và địa phương đã được đề xuất.
+                                   --23--
+
+                                  KẾT LUẬN
+     Luận án được xây dựng nhằm đạt được hai mục tiêu chính: (1) Xác
+định các yếu tố ảnh hưởng thu hút dòng vốn FDI vào Việt Nam; (2) Xác
+định các yếu tố ảnh hưởng phân bố không gian vốn FDI giữa các địa
+phương tại Việt Nam. Đối với mục tiêu nghiên cứu thứ 1, dòng chảy vốn
+đầu tư trực tiếp nước ngoài vào Việt Nam bị ảnh hưởng bởi tỷ giá hối đoái,
+vốn viện trợ phát triển chính thức thu hút được, tổng sản phẩm quốc nội,
+kim ngạch xuất khẩu hàng hóa và tài nguyên khai thác. Kết quả này đã ủng
+hộ giả thuyết tác động của yếu tố khung chính sách, động cơ tìm kiếm thị
+trường và động cơ tìm kiếm tài nguyên của các doanh nghiệp FDI tại Việt
+Nam. Liên quan đến mục tiêu nghiên cứu thứ 2 về xác định các yếu tố ảnh
+hưởng phân bố vốn FDI giữa các địa phương tại Việt Nam, kết quả kiểm
+định theo phương pháp ước lượng GMM sai phân đối với dữ liệu hiện tại và
+quá khứ đã ủng hộ 4 trong 5 giả thuyết đưa ra liên quan đến chất lượng điều
+hành kinh tế của chính quyền địa phương, động cơ tìm kiếm thị trường,
+động cơ tìm kiếm hiệu quả, và hiệu ứng tích tụ FDI đối với các tỉnh nằm
+trong khu vực lân cận thành phố Hà Nội và thành phố Hồ Chí Minh.
+    Bên cạnh những đóng góp mới về lý thuyết và thực tiễn nghiên cứu các
+yếu tố ảnh hưởng thu hút dòng vốn đầu tư trực tiếp nước ngoài vào Việt
+Nam, luận án vẫn còn tồn tại một số hạn chế và các hạn chế này chủ yếu
+liên quan đến dữ liệu phân tích. Thứ nhất, đối với nguồn dữ liệu khảo sát
+nhằm phản ánh đánh giá của các nhà đầu tư nước ngoài đối với môi trường
+đầu tư tại Việt Nam hiện nay, tuy rằng tác giả đã cố gắng rất nhiều nhằm
+thu thập đủ số lượng quan sát phục vụ cho quá trình phân tích nhưng số
+lượng phiếu thu thập vẫn còn rất hạn chế, mặt khác việc lấy mẫu lại dựa
+trên phương pháp lấy mẫu thuận tiện, thời gian thực hiện khảo sát trên 1
+năm. Từ những hạn chế này đã làm cho dữ liệu chưa mang tính đại diện cho
+tổng thể, thế nên các kết quả tính toán vì vậy cũng kém phần chính xác. Do
+đó sẽ là tốt hơn nếu kết quả khảo sát được thực hiện trong thời gian 5 năm
+trở lên đồng thời gia tăng số lượng doanh nghiệp trả lời và cách lấy mẫu nên
+phân tầng và mang tính đại diện hơn. Thứ hai đối với dữ liệu thống kê, mặc
+dù hiện nay bên cạnh dữ liệu của Tổng cục thế thống kê Việt Nam đã có
+                                   --24--
+
+một số nguồn dữ liệu thống kê của các tổ chức quốc tế cung cấp, nhưng vì
+các số liệu kinh tế vĩ mô chủ yếu được thống kê theo năm mà Việt Nam mới
+chỉ bắt đầu quá trình đổi mới nền kinh tế từ năm 1986 do đó dữ liệu thu thập
+theo thời gian của Việt Nam còn rất hạn chế, tối đa lắm chỉ đạt 27 năm < 30
+quan sát. Chính hạn chế lớn này tác giả đã sử dụng dữ liệu ASIA 24 để
+nghiên cứu các yếu tố ảnh hưởng thu hút dòng vốn FDI vào Việt Nam, cách
+thức tiếp cận này sẽ không cho phép nghiên cứu trực tiếp đối với Việt Nam
+nên kết quả nghiên cứu khó có độ tin cậy cao, tuy vậy đây cũng là hướng đi
+mới của luận án nhằm nghiên cứu các yếu tố ảnh hưởng dòng vốn FDI vào
+Việt Nam trên cơ sở so sánh với các nước đang phát triển khác trong khu
+vực Châu Á.
+
